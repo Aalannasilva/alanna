@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  podding: 0;
+} 
+body{
+  background: #cccccc;
+}
+P{
+  text-align: center;
+}
+em strong {
+  color: pinck;
+}
