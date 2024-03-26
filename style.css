@@ -3,10 +3,14 @@
   podding: 0;
 } 
 body{
-  background: #cccccc;
+  
 }
 #banner{
   width:100%;
+}
+.principal{
+  background: #cccccc;
+  padding: 30px;
 }
 h1{
   text-align:center;
