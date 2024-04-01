@@ -3,7 +3,11 @@
   podding: 0;
 }
 
-body {}
+body {
+  
+}
+
+}
 
 #banner {
   width: 100%;
@@ -35,7 +39,7 @@ em strong {
   color: blue;
 }
 
-.itens {
+.itens{
   font-style: italic;
 }
 
