@@ -1,17 +1,15 @@
 * {
   margin: 0;
   podding: 0;
-}
 
 body {
   
 }
 
-}
-
 #banner {
   width: 100%;
 }
+  
 
 .principal {
   background: #cccccc;
@@ -28,7 +26,6 @@ body {
 
 p {
   text-align: center;
-  font-size: 20px;
 }
 
 #missao {
