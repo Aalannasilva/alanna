@@ -1,5 +1,10 @@
 header{
   backgroud: #BBBBBB;
+  padding: 20px 0;
+.caixa{
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
 }
 navi li{
   display: inline;
