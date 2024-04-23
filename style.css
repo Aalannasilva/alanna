@@ -1,8 +1,8 @@
 * {
   margin: 0;
-  podding: 0;
+  padding: 0;
 
-body {
+<body>{
   
 }
 
@@ -51,11 +51,11 @@ h2 {
 
 ul {
   display: inline-block;
-  vertical-aling: top;
+  vertical-align: top;
   width: 20%;
   margin-right: 15%;
 }
 
-.imagem-beneficios {
+.imagem-beneficios{
   width: 50%;
 }
