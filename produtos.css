@@ -30,7 +30,10 @@ nav a {
         text-decoration:underline;
     }
 }
-
+nav a:hover {
+    color: #42f575;
+    text-decoration: underline;
+}
 .produtos{
     width: 940px;
     margin: 0 auto;
