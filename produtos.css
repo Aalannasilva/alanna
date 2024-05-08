@@ -25,15 +25,13 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-    nav a:hover {
-        color: #C78C19;
-        text-decoration:underline;
-    }
 }
-nav a:hover {
+
+nav a: hover {
     color: #42f575;
     text-decoration: underline;
 }
+
 .produtos{
     width: 940px;
     margin: 0 auto;
@@ -54,10 +52,12 @@ nav a:hover {
 }
 
 .produtos li:hover{
+    font-size: 34px
     border-color: #C78C19;
 }
 
 .produtos li:active{
+    font-size: 34px
     border-color: #088C19;
 }
 
@@ -115,6 +115,10 @@ input-padrao{
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+     color: #823101;
+}
+form submit {
+    display: block;
 }
 .checkbox{
     margin: 20px 0;
