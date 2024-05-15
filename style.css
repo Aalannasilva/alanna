@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
 }
 
-nav a: hover {
+nav a:hover {
     color: #42f575;
     text-decoration: underline;
 }
@@ -52,12 +52,12 @@ nav a: hover {
 }
 
 .produtos li:hover{
-    font-size: 34px
+    font-size: 34px;
     border-color: #C78C19;
 }
 
 .produtos li:active{
-    font-size: 34px
+    font-size: 34px;
     border-color: #088C19;
 }
 
@@ -126,17 +126,17 @@ form submit {
 .enviar {
     width: 40%;
     padding: 15px 0;
-    backgroud: orange;
+    background-color: orange;
     color: white;
     font-weight: bold;
     font-size: 18px;
-    boder: nome;
-    boder-radius: 5px;
+    border: nome;
+    border-radius: 5px;
     transition: 1s all;
-    cursos: pointer;
+    cursor: pointer;
 }
-.enviar: hover{
-    backgroud:darkorange;
+.enviar:hover{
+    background-color:darkorange;
     transform: scale(12);
 }
 table {
